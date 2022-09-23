@@ -80,5 +80,12 @@ curl --location --request POST 'http://127.0.0.1/api/v1/calculator' \
 --form 'value2=2'
 ```
 
-### Live version (AWS):
+### API Live version (AWS):
 http://34.212.162.188/api/v1
+
+### Live version (AWS)
+Calculator Frontend: http://35.89.169.61:8080
+```
+Username: calculator@email.com
+Password: calculator
+```
