@@ -81,7 +81,7 @@ curl --location --request POST 'http://127.0.0.1/api/v1/calculator' \
 ```
 
 ### API Live version (AWS):
-http://34.212.162.188/api/v1
+http://54.214.69.132/api/v1
 
 ### Live version (AWS)
 Calculator Frontend: http://35.89.169.61:8080
